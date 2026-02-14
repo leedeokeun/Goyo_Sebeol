@@ -75,6 +75,6 @@
 * **오른손 초성 전담의 이점:** 오른손은 초성 위주로 배치되어 있어 러닝커브가 매우 낮습니다. 사용자는 왼손의 중성-종성 연결 흐름만 익히면 3x5 극한의 공간에서도 전문적인 고속 타건이 가능합니다.
 
 날개셋파일
-[[Goyo Sebeol V1.0 Final.ist]]
+[[[Goyo Sebeol V1.0 Final.ist](https://github.com/leedeokeun/Goyo_Sebeol/blob/main/Goyo%20Sebeol%20V1.0%20Final.ist)]
 
 https://www.keyboard-layout-editor.com/#/gists/e3dbc33100fed24268d6d9d9b283af85
