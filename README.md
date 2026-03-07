@@ -77,3 +77,6 @@ v1.1은 입력 단계 간 간섭을 최소화하고 **인롤링(Inward Rolling)*
 https://notebooklm.google.com/notebook/1b26d1b6-e0ac-485c-ac3f-1f3d83577630
 개선하거나 궁금한거 있을때 사용할 수 있도록 공유합니다.
 
+레이아웃입니다.
+https://www.keyboard-layout-editor.com/#/gists/e3dbc33100fed24268d6d9d9b283af85
+
